@@ -14,4 +14,5 @@ Technologies involved:
 - Wise mapping (http://www.wisemapping.com/index.html)
 - BPMN(Business process modeling notation https://searchcio.techtarget.com/definition/Business-Process-Modeling-Notation
 - Jumly (http://jumly.tmtk.net/) for UML diagrams
+- Mermaid 
 
