@@ -9,10 +9,11 @@ MegaracChat **link**(https://megaracchat.ami.com)<br/>
 Bot backed Instant chat communication Sync on this 
 chat channel (https://megaracchat.ami.com/devnet/channels/town-square)
 
-Technologies involved:
+Technologies involved:gsgsgsg
 -----------------------
 - Wise mapping (http://www.wisemapping.com/index.html)
 - BPMN(Business process modeling notation https://searchcio.techtarget.com/definition/Business-Process-Modeling-Notation
 - Jumly (http://jumly.tmtk.net/) for UML diagrams
 - Mermaid 
+
 
