@@ -15,10 +15,13 @@ bold    -**text will be bold**
 - Adding tables\  
 
 **Docker**
+
+sudo apt-get remove docker docker-engine docker.io
 - Before you install Docker CE for the first time on a new host machine, you need to set up the Docker repository. Afterward, you can install and update Docker from the repository.\
 
 - SET UP THE REPOSITORY\
 Update the apt package index:
+
 
 $ sudo apt-get update
 Install packages to allow apt to use a repository over HTTPS:\
