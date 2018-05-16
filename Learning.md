@@ -57,14 +57,14 @@ bold    -**text will be bold**
 + An associative array is declared or dynamically created
     - var devnet = { "Mermaid": 1, "Markdown": 2, "RobotFramework": 3 }; 
 + we can create an associative array with the Object reserved word, then and assign keys and values:
-    - var devnet = new Object();
+    - var devnet = new Object();\
       devnet["Mermaid"] = 1;\
       devnet["Markdown"] = 2;\
       devnet["RobotFramwork"] = 3;\
       for(var i in devnet)\
       { \
           document.write(i + "=" + devnet[i] + '<br>');\
-          }\
+          }
 
     
 
