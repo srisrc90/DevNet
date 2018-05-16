@@ -1,19 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="mermaid.min.css">
-</head>
+<html>
 <body>
-  <div class="mermaid">
-      var gitgraph = new GitGraph({
-        template: "blackarrow",
-        reverseArrow: false,
-        orientation: "horizontal",
-        mode: "compact"
-      });
-  </div>
-  <script src="node_modules/mermaid/dist/mermaid.js"></script>
-  <script>mermaid.initialize({startOnLoad:true});</script>
+
+<h2>What Can JavaScript Do?</h2>
+
+<p id="demo">JavaScript can change HTML content.</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
+<button type="test" onclick='document.getElementById("demo").innerText="hello"' >click</button>
 </body>
 </html>
