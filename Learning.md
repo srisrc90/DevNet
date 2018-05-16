@@ -51,8 +51,21 @@ bold    -**text will be bold**
 
 + JavaScript arrays are written with square brackets.Array items are separated by commas
 + Using an array literal is the easiest way to create a JavaScript Array.
-     - var cars = ["Saab", "Volvo", "BMW"]
-- 
+     - var devnet = ["Mermaid", "Markdown", "Docker", "RobotFrame"];
++ Add element to the array
+     - devnet[devnet.length] = "github";     // adds a new element (Lemon) to fruits
++ An associative array is declared or dynamically created
+    - var devnet = { "Mermaid": 1, "Markdown": 2, "RobotFramework": 3 }; 
++ we can create an associative array with the Object reserved word, then and assign keys and values:
+    - var devnet = new Object();
+      devnet["Mermaid"] = 1;\
+      devnet["Markdown"] = 2;\
+      devnet["RobotFramwork"] = 3;\
+      for(var i in devnet)\
+      { \
+          document.write(i + "=" + devnet[i] + '<br>');\
+          }\
+          
     
 
 
