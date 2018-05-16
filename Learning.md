@@ -53,7 +53,7 @@ bold    -**text will be bold**
 + Using an array literal is the easiest way to create a JavaScript Array.
      - var devnet = ["Mermaid", "Markdown", "Docker", "RobotFrame"];
 + Add element to the array
-     - devnet[devnet.length] = "github";     // adds a new element (Lemon) to fruits
+     - devnet[devnet.length] = "github";     // adds a new skill set (github) to devnet
 + An associative array is declared or dynamically created
     - var devnet = { "Mermaid": 1, "Markdown": 2, "RobotFramework": 3 }; 
 + we can create an associative array with the Object reserved word, then and assign keys and values:
@@ -65,7 +65,7 @@ bold    -**text will be bold**
       { \
           document.write(i + "=" + devnet[i] + '<br>');\
           }\
-          
+
     
 
 
