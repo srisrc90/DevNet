@@ -34,8 +34,12 @@ bold    -**text will be bold**
 <h1>Robot Framework</h1>
 
 
-<h1>Java script<h1>
+<h1>Java script</h1>
 
+- Introduction 
+- Datatypes
+- Arrays
+- 
 <h2> Datatypes</h2>
 
 - When adding a number and a string, JavaScript will treat the number as a string.
