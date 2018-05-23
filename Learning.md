@@ -31,7 +31,35 @@ bold    -**text will be bold**
     - *git spx clone https://megaracgit.ami.com/core/lts/spx-12/crb/wolfpass.git /home/spx-12/*
 -   Start build using git spx build command.
 
+<h2>Basic usage of pulling an image and running a container with it</h2>
+
+- Fetches the busybox image from the Docker registry and saves it to our system using docker pull busybox
+- Loads up the container and then runs a command in that container.  run busybox using docker run busybox command.
+- list of all containers using docker ps -a 
+- Webapp with docker 
+     Download and run the image directly in one go using docker run. https://docker-curriculum.com/#static-site
+- Understanding the docker file 
+- 
+
 <h1>Robot Framework</h1>
+
+<h1>Python </h1>
+<h2 >Introduction </h2>
+
+- Its a high level language (user understandable )
+- dynamic typing (no need  variable declarations)
+- Fast debugging 
+- Free and open source 
+- Modularity ( it can be integrate with any of the languages)
+
+Python Editors
+- Atom ,VScode
+
+<h2>Comments</h2>
+- Single line comments (# comments)
+- Multi line comments()
+
+
 
 
 <h1>Java script</h1>
@@ -65,6 +93,9 @@ bold    -**text will be bold**
       { \
           document.write(i + "=" + devnet[i] + '<br>');\
           }
+
++ Array Properties and Methods
+    - 
 
     
 
