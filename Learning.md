@@ -24,6 +24,15 @@ bold    -**text will be bold**
 - Adding tables\  
 
 <h1>Docker</h1>
+<h2>Introduction</h2>
+http://blog.flux7.com/blogs/docker/docker-tutorial-series-part-1-an-introduction
+
+- Docker Client is the user interface that allows communication between the user and the Docker daemon.
+- Docker Daemon sits on the host machine answering requests for services.
+- Docker Index is a centralized registry allowing backup of Docker container images with public and private access permissions.
+- Docker Containers are responsible for the actual running of applications and includes the operating system, user added files, and   meta-data.
+- Docker Images are ready-only templates that help launch Docker containers.
+- DockerFile is a file housing instructions that help automate image creation.
 
 -  Installed docker by following the instruction   https://docs.docker.com/install/linux/docker-ce/ubuntu/
 -	Analyzed spx-git usage  *spx git <command> [options] <arguments>*
